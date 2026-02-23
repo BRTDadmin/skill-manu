@@ -1,0 +1,464 @@
+# Key Frameworks & Models
+
+Frameworks mentioned across Lenny's Podcast episodes:
+
+- $100 voting
+- 10X Thinking
+- 10x vs 10%
+- 1:1:5 Product Team Ratio
+- 2x2 framework for pricing
+- 2x2 grid for community implementation
+- 3 W’s framework
+- 3B Framework of Behavioral Design
+- 3Ds Framework
+- 3Es Framework
+- 4BB Framework
+- 5 Whys
+- 666 Roadmap
+- 7 friends in 10 days
+- 8 axis for PM growth
+- A.P.E. (awareness
+- A/B Testing
+- A/B testing
+- AI at the Core vs. AI at the Edge
+- AMPED
+- API-First
+- Above the Line vs. Below the Line
+- Abundance Mindset
+- Accordion Method
+- Adjacent User
+- Adjacent Users Theory
+- Agile
+- Alignment Scale
+- Alpha Selling
+- Always day one
+- Always vs. Sometimes Rules
+- Amjad’s law
+- Analyze
+- April Dunford's 5-step positioning framework
+- Arbitrary Segmentation (Arb)
+- Arielle's Brand Development Framework
+- Atlassian's four-phase framework
+- Atlassian’s gated process for new product ideas
+- Audience
+- AutoGPT
+- AutoML
+- BabyAGI
+- Bach
+- Bad Product Strategy
+- Bayesian Truth Serum
+- Beginner's Mindset
+- Behavioral Diagnosis
+- Billboarding
+- Bits and Bobs
+- Black and Blue Loops
+- Blueprint for Leaders/Managers
+- Bottom 3)
+- Bottom-up approach
+- Bow and Arrow Technique
+- Brick
+- Bridging-based algorithm
+- Building State
+- CUPED
+- Candidate-Market Fit
+- Cannonballs
+- Canonical Everything
+- Cathedrals not bricks
+- Channels
+- Charlie
+- Claude
+- Cloud-based service
+- Codex
+- Cognitive Reappraisal
+- Colin Powell's 40-70 Rule
+- Common Currency
+- Community-Led Growth
+- Company-Product Fit
+- Compound Startup
+- Concentric Circles Framework
+- Confidence Meter
+- Conjoint Analysis
+- Conscious Leadership
+- Conscious Leadership Group
+- Consumer Stack
+- Content)
+- Content-Market Fit
+- Context
+- Conversational Marketing
+- Conviction Prompts
+- Cracking the Coding Interview
+- Cracking the PM Career
+- Cracking the PM Interview
+- Creative vs. Reactive Leadership
+- Crisis Management Framework
+- Crossing the Chasm
+- Cultural Erogenous Zones
+- Culture Interviews
+- Curiosity Faucet
+- Curiosity Loop
+- Customer-Led Growth
+- Cycles
+- DATE (Diagnose
+- DHM model
+- DORA
+- DORA metrics
+- Data Stack
+- Data flywheels
+- Day one vs. day one-hundred premium features
+- Deadline (pick two)
+- Decision Log
+- Dehydrated Entity
+- Delta 4 Framework
+- Demand-Side Sales
+- Depth-first approach
+- Design Sprint
+- Diagnose with data
+- Dinosaur brain
+- Disagree and Commit
+- Disagreeable givers
+- Distributed Systems
+- Do Things That Don’t Scale
+- Document Model
+- Dogfooding
+- Don’t make me think
+- Dory
+- Dory and Pulse
+- Double Diamond
+- Dump Truck
+- Eigenquestions
+- Einstein vs. da Vinci
+- Eisenhower Matrix
+- Empowered
+- Empowered Product Teams
+- Engineerications
+- Ensemble orchestration
+- Escher
+- Essentialism
+- Eval-driven development
+- Ex-growth company
+- Execute
+- Experiment)
+- Explore and Exploit Framework
+- Explore-Exploit Framework
+- Extreme Clarity
+- Fake Door Test
+- Fall in Love with the Problem
+- Fast and Slow
+- Feather
+- Features
+- Feedback Rivers
+- Fight Club
+- Fire
+- First-principles thinking
+- Fish where the fish are
+- Fisher's method
+- Five Whys
+- Five big brand descriptions
+- FlashTags
+- Forward-Deployed Engineer
+- Founder Mode
+- Founder Prenup
+- Founder-Future Fit
+- Four A’s of leveling up
+- Freemium
+- Freemium Model
+- Friction Logging
+- Friction Logs
+- Friday
+- Fuel and Engine
+- Full Stack Builder Model
+- GACC (Goals
+- GIST
+- Gabor-Granger
+- Gap Selling
+- Gardening vs. Building
+- Gestalt coaching
+- Getting Things Done (GTD)
+- Gift of details
+- Give away your Legos
+- Golden Gut
+- Good Product Strategy
+- Goodhart's Law
+- Goose
+- Gratitude House Exercise
+- Growth Competency Model
+- Growth Loops
+- Growth Model
+- Gödel
+- Hacking Marketing
+- Hard choices
+- Head
+- Heart and Hands
+- Hero's Journey
+- High Alpha
+- High Output Management
+- Hill Charts
+- Hill climbing
+- Homework for Life
+- Hot Seat
+- Hyper-realistic work-like activities
+- ICE Framework
+- IQ vs EQ skills
+- ITIL
+- ITSM
+- Identify
+- If [This] Then [Breathe] Recipes
+- Impact = Skills x Environment
+- Impact-First Product Teams
+- Infinite Games
+- Inflections
+- Inner Scorecard
+- Insights
+- Inspired
+- Intuition as a hypothesis generator
+- Iterative Deployment
+- J-curves vs. stairs
+- Jevons paradox
+- Job Search Councils
+- Jobs-to-be-Done
+- Jobs-to-be-Done (JTBD)
+- Jurassic Park moment
+- Kaizen
+- Kanban
+- Ken Blanchard's leadership model
+- Kill Criteria
+- Killers
+- Kindle vs. Fire Strategies
+- LNO Framework
+- LNO framework
+- Leaders
+- Lean Startup
+- Lego bricks vs. Lego boxes
+- Lighthouse Users
+- Listening Tours
+- Low Beta
+- Low Heart Rate
+- Low-impact PM Death Spiral
+- MAGMA
+- MCP (Model Context Protocol)
+- MECE framework
+- METRs
+- Make Time
+- Maker Week
+- Maker vs. Manager Schedule
+- Management Time: Who's Got the Monkey?
+- Managing Complex Change
+- Managing-up formula
+- Marketplace Health Metrics
+- Media Mix Modeling
+- Mental Time Travel
+- Minimally Awesome Product
+- Minimum Lovable Product (MLP)
+- Minto Pyramid Principle
+- Mnookin two-pager
+- Mochary Method
+- Model Maximalism
+- Modern Growth Stack
+- Monetizing Innovation
+- Most Charitable Interpretation
+- Network Effects
+- Next.js
+- Nielsen Number
+- No Politics Rule
+- No specific frameworks were mentioned.
+- Nominal Group Technique
+- Non-Violent Communication (NVC) Model
+- Not mentioned in the transcript.
+- Not the Solution
+- OKRs
+- OKRs for job mission
+- Ontology-First Data Platform
+- Open Source
+- Opportunity Cost Thinking
+- Organizational Kayfabe
+- Overall Evaluation Criterion (OEC)
+- PEARL
+- PLG growth funnel
+- PM your career
+- PMF Criteria for Candidates
+- PQL (Product Quality List)
+- PR-centric marketing
+- PREP
+- PSHE
+- Parkinson's Law
+- Passionate Beliefs Loosely Held
+- Pattern Breakers
+- Peer feedback groups
+- Piano Matchmaking
+- Pill in the Cheese
+- Pings and Echoes
+- Pivot Evaluation Framework
+- Pre-mortems
+- Pre-training
+- Prisoner's Dilemma
+- Product-Led Acquisition
+- Product-Led Acquisition (PLA)
+- Product-Led Growth (PLG)
+- Product-Market Fit
+- Product-Market Fit Treadmill
+- Project-Based Retention
+- Psychoanalytic Talk Therapy
+- Pulse
+- Purple Cow
+- Quality
+- Quit
+- RACI
+- RAPID
+- RICE Framework
+- ROI Equations
+- Radical Candor
+- Range: Why Generalists Triumph in a Specialized World
+- Rapid Fire Analogies
+- Rapids
+- React
+- Reading the Mind in the Eyes
+- Ready
+- Resonate
+- Reverse Trials
+- Reverse trial
+- Rolling two-year roadmap
+- S.P.A.D.E.
+- SCR Framework
+- SPACE
+- SPOTAC
+- STAR
+- Sales Cycle Steps
+- Sam Walton: Made in America
+- Scrum
+- Sean Ellis Test
+- Sean Ellis Test for Product-Market Fit
+- Self-contained forwardable email (SCFE)
+- Shape Up
+- Sharp Problems
+- Ship
+- Shipyard Team Model
+- Show-Don't-Tell
+- Single Decisive Reason
+- Six Sigma
+- Slime Mold Organization
+- Smoke Test
+- Socket.IO
+- Sooner Safer Happier
+- Spotify Model
+- State over Story
+- Storytelling for Roadmapping
+- Strategy Choice Cascade
+- Strategy Salons
+- Structured Sabbatical
+- Study Group
+- Sugar-coated broccoli
+- Systems Thinking
+- T3 B3 (Top 3
+- Take a different path
+- Taste as a core skill
+- Test-time compute
+- The "10 dollar" game for priorities
+- The "bar test" for positioning
+- The 'Who' method for hiring
+- The 15 Commitments of Conscious Leadership
+- The 5 AM Club
+- The Adjacent Possible
+- The Cadence
+- The Challenger Sale
+- The Compendium
+- The Conductor
+- The Crux
+- The Culture Map
+- The Dinner Test
+- The Duarte Presentation Framework
+- The Figgies
+- The First Mile
+- The Five-Second Moment
+- The Four I’s
+- The Four Steps to the Epiphany
+- The Four-Step Process of Deep Personal Transformation
+- The Goal
+- The Great CEO Within
+- The Hard Thing About Hard Things
+- The Hunters and the Hunted
+- The Innovator's Dilemma
+- The JOLT Effect
+- The Kernel of Strategy
+- The Leader's Journey
+- The Lean Startup
+- The Linear Method
+- The Lion Tracker’s Guide to Life
+- The Magic Loop
+- The Messy Middle
+- The Minto Pyramid Principle
+- The North Star Playbook
+- The Owner's Delusion
+- The Pathless Path
+- The Score Takes Care of Itself
+- The Seinfeld Strategy
+- The Snowball: Warren Buffett and the Business of Life
+- The Social Radar
+- The Three Machines
+- The User's Journey
+- The Writer's Journey
+- The five PM archetypes
+- The impulse to hurry is a signal to slow down
+- The waterline model
+- Thermal project approach
+- Thinking
+- Three Horizons
+- Three Levels of Product Work
+- Three Pillars of Product Ops
+- Three levels of product work
+- Tilt your umbrella
+- Tim Ferriss Day
+- Time Decay Attribution
+- Toddler soccer
+- Traffic Light System
+- Traffic light system
+- Triple Step
+- Turing Test
+- Two-way door vs. one-way door decisions
+- Two-way write-ups
+- Twyman's Law
+- UGC (User-Generated Content)
+- Understand
+- Unique Venn Diagram of Skills
+- Unsell Email
+- Usage-Based Pricing
+- User Story Mapping
+- Utility Curves
+- VRIO Framework
+- Value Exchange Loop
+- Van Westendorp Price Sensitivity Meter
+- Van Westendorp pricing model
+- Van Westendorp's Price Sensitivity Meter
+- Van Westerndorp Pricing Sensitivity Meter
+- Vibe Coding
+- Vision & Mission Framework
+- Vision Casting
+- WHAT
+- We don’t sell saddles here
+- Web3 Infrastructure
+- What is? What could be? What is the ideal bliss?
+- What-if vs. Why-not questions
+- What? So What? Now What?
+- Wizard of Oz Test
+- Working Backward
+- Working Backwards
+- Year of Yes
+- Zanzibar
+- Zero Interest Rate Phenomenon Product Manager
+- Zevi's AI Workflow
+- Zone of Indifference
+- and Fillers framework
+- and Learn
+- and emotion)
+- and...
+- easy life. Easy choices
+- first-click attribution
+- give-and-get framework
+- hard life.
+- last-click attribution
+- linear attribution
+- not control
+- one-way vs. two-way door decisions
+- p-value
+- posture
+- time-decay attribution
+- treat with design
